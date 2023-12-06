@@ -1,0 +1,14 @@
+C:\Users\Selso Pacheco\lpo\Avaliacao\bin\Debug\net7.0\Avaliacao.exe
+C:\Users\Selso Pacheco\lpo\Avaliacao\bin\Debug\net7.0\Avaliacao.deps.json
+C:\Users\Selso Pacheco\lpo\Avaliacao\bin\Debug\net7.0\Avaliacao.runtimeconfig.json
+C:\Users\Selso Pacheco\lpo\Avaliacao\bin\Debug\net7.0\Avaliacao.dll
+C:\Users\Selso Pacheco\lpo\Avaliacao\bin\Debug\net7.0\Avaliacao.pdb
+C:\Users\Selso Pacheco\lpo\Avaliacao\obj\Debug\net7.0\Avaliacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Selso Pacheco\lpo\Avaliacao\obj\Debug\net7.0\Avaliacao.AssemblyInfoInputs.cache
+C:\Users\Selso Pacheco\lpo\Avaliacao\obj\Debug\net7.0\Avaliacao.AssemblyInfo.cs
+C:\Users\Selso Pacheco\lpo\Avaliacao\obj\Debug\net7.0\Avaliacao.csproj.CoreCompileInputs.cache
+C:\Users\Selso Pacheco\lpo\Avaliacao\obj\Debug\net7.0\Avaliacao.dll
+C:\Users\Selso Pacheco\lpo\Avaliacao\obj\Debug\net7.0\refint\Avaliacao.dll
+C:\Users\Selso Pacheco\lpo\Avaliacao\obj\Debug\net7.0\Avaliacao.pdb
+C:\Users\Selso Pacheco\lpo\Avaliacao\obj\Debug\net7.0\Avaliacao.genruntimeconfig.cache
+C:\Users\Selso Pacheco\lpo\Avaliacao\obj\Debug\net7.0\ref\Avaliacao.dll
